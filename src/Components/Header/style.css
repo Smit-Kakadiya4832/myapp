@@ -1,0 +1,24 @@
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul,li{
+    list-style: none;
+    padding: 0 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: poppins;
+    font-size: 16px;
+}
+header{
+    background-color: transparent;
+}
+.logo{
+	height: 100px;
+}
