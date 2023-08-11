@@ -1,10 +1,10 @@
-import './App.css';
+// import './App.css';
 import Header from './Components/Header/Header';
 import Slider from './Components/Slider/Slider';
 import Footer from './Components/Footer/Footer';
 
 function App() {
-  return (
+  return(
     <>
       <Header/>
       {/* <Slider/>
